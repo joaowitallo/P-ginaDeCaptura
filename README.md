@@ -23,7 +23,7 @@ A página contém uma descrição do evento e informações sobre o palestrante,
 - HTML5
 - CSS (referenciado no arquivo `style.css`)
 
- # Foto da Pagina
+ # Foto da Página
   <img src="/PaginaDeCaptura.png">
 
-  ## Projeto: João Witallo C. Conceição
+  # Projeto: João Witallo C. Conceição
